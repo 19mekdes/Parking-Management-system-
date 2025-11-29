@@ -17,7 +17,7 @@ The Parking Management System is a console-based application developed in C prog
 - Hands-on experience with file I/O and data management
 🚀 How to Run
 - Clone the repository:
-git clone https://github.com/your-username/Parking-Management-C.git
+git clone https://github.com/19mekdes/Parking-Management-C.git
 - Compile the program:
 gcc parking_management.c -o parking_management
 - Run the executable:
